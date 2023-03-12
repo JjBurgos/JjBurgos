@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 Me llamo Jaime Burgos </h1>
+<h1 align="center">Me llamo Jaime Burgos </h1>
 
 - 👀 I’m interested in ...Leer, viajar y colaborar
 - 🌱 I’m currently learning ...Especialización Gestión de calidad
